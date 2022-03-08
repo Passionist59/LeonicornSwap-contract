@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/LeonicornSwap-Token-Contract.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/LeonicornSwap-Token-Contract.sol": {
+			"keccak256": "0xd6286b5da1fe4b80833268c6faf7c8713d9a8a2c37e0302145e10141842b9ac6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0948eb1d70b4bd5aa013b1b89c336af4543fddbf19f1dabc2916a7be2a3a5a8f",
+				"dweb:/ipfs/QmZc2G2pvWGeV4EvqNcBaAhYJ3HKi6TYy2vT2EWwBMwzZf"
+			]
+		}
+	},
+	"version": 1
+}
