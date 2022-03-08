@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/LeonicornSwap-Token-Contract.sol": "Context"
+			"contracts/Context.sol": "Context"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/LeonicornSwap-Token-Contract.sol": {
-			"keccak256": "0xd6286b5da1fe4b80833268c6faf7c8713d9a8a2c37e0302145e10141842b9ac6",
+		"contracts/Context.sol": {
+			"keccak256": "0xa475c1685349498b21fd15bf23d66cc09480745186a5854b010784b620ffe4f3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0948eb1d70b4bd5aa013b1b89c336af4543fddbf19f1dabc2916a7be2a3a5a8f",
-				"dweb:/ipfs/QmZc2G2pvWGeV4EvqNcBaAhYJ3HKi6TYy2vT2EWwBMwzZf"
+				"bzz-raw://7aa171a3b0aeabd7b31b94cf63eb14df9fd3d2e3a12d5ba3d9a634a789871196",
+				"dweb:/ipfs/QmNwZDsCn4Af9Uyw3syohXAAoe9pAwCuvCm6FZXG3Hv5ka"
 			]
 		}
 	},
